@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="lbN1">Number 1 :</string>
+
+    <string name="lbN2">Number 2 :</string>
+    <string name="lbOK">OK</string>
+    <string name="lbsum">Sum</string>
+    <string name="lbpus">+</string>
+    <string name="lbsub">-</string>
+    <string name="lbmal">*</string>
+    <string name="lbde">/</string>
+</resources>
